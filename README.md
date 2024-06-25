@@ -2,13 +2,19 @@
 
 This repository contains a web application for predicting multiple diseases using machine learning and deep learning algorithms. The diseases that can be predicted include:
 
-Diabetes
+Diabetes Disease
+
 Heart Disease
+
 Kidney Disease
+
 Breast Cancer
+
 Liver Disease
-Malaria
-Pneumonia
+
+Malaria Detection
+
+Pneumonia Detection
 
 
 ## Sample Images of the Web Application
