@@ -1,7 +1,7 @@
 import streamlit as st 
 import pickle 
 import os
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 from tensorflow.keras.models import load_model
 
 st.set_page_config(page_title="Mulitple Disease Prediction",layout="wide", page_icon="👨‍🦰🤶")
